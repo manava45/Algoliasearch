@@ -1,0 +1,2 @@
+# Algoliasearch
+Created with CodeSandbox
